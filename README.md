@@ -10,7 +10,7 @@
 * Computer Science Major
 
 ## Summary
-* Full Stack Engineer with proficiencies in Java, JavaScript, TypeScript, Postgresql, MySql, Angular, and Vue. 
+* Intermediate Full Stack Engineer with proficiencies in Java, JavaScript, TypeScript, Postgresql, MySql, Angular, and Vue. 
 
 ## Experience
 
