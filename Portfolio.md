@@ -1,8 +1,8 @@
 # Kyara Pugh Portfolio
 
 ## Contact Information
-* Email
-* Phone
+* **Email**
+* _Phone_
 * Website
 
 ## Summary
@@ -17,3 +17,5 @@ git clone ${repo-name}
 cd ${repo-name}
 mvn spring boot:run
 ```
+
+## Anchor Tag Demo
