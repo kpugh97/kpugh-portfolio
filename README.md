@@ -1,1 +1,1 @@
-# kpugh-portfolio
+# Kyara Pugh Portfolio
