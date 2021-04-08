@@ -16,7 +16,7 @@
 
 ### Anuglar Web Application: [Game Management System](https://github.com/kpugh97/game-management-repo)
 #### March 2021
-* Game Management System is a web application in which users can add video games to their on personalize lists, rate, and review those games. Includes a mock login system imitating a user and admin login. Admins have the ability to add,edit, or delete reviews and games to the site, which in turn makes changes to the database.
+* **Game Management System** is a web application in which users can add video games to their own personalized lists, rate, and review those games. Includes a mock login system imitating a user and admin login. Admins have the ability to add,edit, or delete reviews and games to the site, which in turn makes changes to the database.
 * PostgreSQL backend Database
 * Java/Springboot Service layer
 * JDBC to make SQL queries and map SQL data to Java Models.
