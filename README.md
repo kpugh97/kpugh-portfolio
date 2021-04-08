@@ -28,6 +28,18 @@
 * [Third party API](https://www.giantbomb.com/forums/api-developers-3017/giantbomb-api-feature-requests-389137/) to grab video game images by game title.
 
 ### Talent Path Group Project, Vue Web Application: [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise)  "Find My Paradise"
+* **Find My Paradise** is recreation of a listing page on Airbnb.
+* Features include:
+  - Hosted imgaes of the listing location
+  - Date range picker to calculate the total cost of the stay per night
+  - Choosing how many guests will be staying
+  - Reserving days for listing, which in turn block out the days on the calendar 
+  - Listing of amenities, house rules, and safety guidelines per listing
+  - Map feature showing the location of the liosting and nearby places
+  - Host information and how to contact them
+  - User reviews for the listing, that are also searchable by key words
+  - Reccommendations to other listings
+  - Nearby events to attend in the area
 * MySQL backend Database
 * Java/Springboot Service layer
 * JPA/Hibernate for secure SQL table generation and SQL queries
