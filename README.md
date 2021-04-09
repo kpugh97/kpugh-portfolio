@@ -10,9 +10,19 @@
 * Computer Science Major
 
 ## Summary
-* Intermediate Full Stack Engineer with proficiencies in Java, JavaScript, TypeScript, Postgresql, MySql, Angular, and Vue. 
+* Intermediate Full Stack Engineer. Currently working as a Full Stack Developer with Talent Path.
 
-## Experience
+## Languages
+* Java 
+* JavaScript
+* TypeScript 
+* SQL
+
+## Frameworks
+* Angular
+* Vue
+
+## Project Experience
 
 
 ### Talent Path Solo Capstone Project, Anuglar Web Application: [Game Management System](https://github.com/kpugh97/game-management-repo)
