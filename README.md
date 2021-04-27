@@ -24,7 +24,7 @@
 
 ## Project Experience
 
-### [Mock Amazon Listing Page](https://github.com/Smelser-Squad/Nile)  "Find My Paradise"
+### [Mock Amazon Listing Page](https://github.com/Smelser-Squad/Nile) "Nile"
 #### May 2021
 * Contributor
 * **Nile** is a recreation of an Amazon product listing page
@@ -35,8 +35,12 @@
   - View user made reviews per product
   - View questions and answers for each product
   - Filter reviews by tags, based on common words within all reviews for the product
+* PostgreSQL database
+* Java/Springboot service layer
+* JPA/Hibernate ORM
+* React front-end components
 
-### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise)  "Find My Paradise"
+### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise) "Find My Paradise"
 #### April 2021
 * Contributor
 * **Find My Paradise** is a recreation of a Airbnb listing page 
@@ -53,7 +57,7 @@
   - Nearby events to attend in the area
 * MySQL backend database
 * Java/Springboot service layer
-* JPA/Hibernate for secure SQL table generation and SQL queries
+* JPA/Hibernate ORM
 * Vue front-end components
 * AWS deployed backend
 
