@@ -24,7 +24,7 @@
 
 ## Project Experience
 
-### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise)  "Find My Paradise"
+### [Mock Amazon Listing Page](https://github.com/Smelser-Squad/Nile)  "Find My Paradise"
 #### May 2021
 * Contributor
 * **Nile** is a recreation of an Amazon product listing page
