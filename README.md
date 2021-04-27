@@ -21,6 +21,7 @@
 ## Frameworks
 * Angular
 * Vue
+* React
 
 ## Project Experience
 
@@ -78,3 +79,17 @@
 
 
 ## Personal Projects
+
+### [Asteroids Game](https://github.com/kpugh97/unity-asteroids)
+#### June 2020
+* Owner/Creator
+* **Asteroids Game** is a replication of the classic arcade space shooter, using the Unity engine
+  * Features include:
+  * C# Scripts 
+
+### [Flappy Bird Game](https://github.com/kpugh97/unity-flappy-bird)
+#### June 2020
+* Owner/Creator
+* **Flappy Bird Game** is a replication of the popular mobile game "Flappy Bird" using the Unity engine
+  * Features include:
+  * C# Scripts 
