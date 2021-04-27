@@ -25,10 +25,23 @@
 ## Project Experience
 
 ### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise)  "Find My Paradise"
+#### May 2021
 * Contributor
-* **Find My Paradise** is recreation of a listing page on Airbnb.
+* **Nile** is a recreation of an Amazon product listing page
+* Features includes:
+  - Hosted images of product
+  - User authentication and login
+  - Ability to view images of a product and hover zoom
+  - View user made reviews per product
+  - View questions and answers for each product
+  - Filter reviews by tags, based on common words within all reviews for the product
+
+### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise)  "Find My Paradise"
+#### April 2021
+* Contributor
+* **Find My Paradise** is a recreation of a Airbnb listing page 
 * Features include:
-  - Hosted imgaes of the listing location
+  - Hosted images of the listing location
   - Date range picker to calculate the total cost of the stay per night
   - Choosing how many guests will be staying
   - Reserving days for listing, which in turn block out the days on the calendar 
@@ -38,18 +51,19 @@
   - User reviews for the listing, that are also searchable by key words
   - Reccommendations to other listings
   - Nearby events to attend in the area
-* MySQL backend Database
-* Java/Springboot Service layer
+* MySQL backend database
+* Java/Springboot service layer
 * JPA/Hibernate for secure SQL table generation and SQL queries
-* Vue Front-end components
-* AWS Deployed backend
+* Vue front-end components
+* AWS deployed backend
 
 
 ### [Game Management System](https://github.com/kpugh97/game-management-repo)
 #### March 2021
 * Owner/Creator
 * **Game Management System** is a web application in which users can add video games to their own personalized lists, rate, and review those games. 
-  - Includes a mock login system imitating a user and admin login.
+ * Features include:
+  - Mock login system, imitating a user and admin login.
   - Admins have the ability to add,edit, or delete reviews and games to the site, which in turn makes changes to the database.
   - Regular users have more restricted permissions and can only delete reviews that they have created themselves.
 * PostgreSQL backend Database
@@ -57,8 +71,6 @@
 * JDBC to make SQL queries and map SQL data to Java Models.
 * Angular front-end components
 * [Third party API](https://www.giantbomb.com/forums/api-developers-3017/giantbomb-api-feature-requests-389137/) to grab video game images by game title.
-
-
 
 
 ## Personal Projects
