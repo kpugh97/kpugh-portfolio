@@ -32,14 +32,21 @@
 * Features includes:
   - Hosted images of product
   - User authentication and login
+  - Search products through search bar
   - Ability to view images of a product and hover zoom
   - View user made reviews per product
+  - View product features and associated ratings
   - View questions and answers for each product
   - Filter reviews by tags, based on common words within all reviews for the product
+  - View all reviews for a product with most postive review and most critical review displayed for user viewing
+  - Filter all reviews by search bar key words
+  - Add items to cart
+  - Place orders for a product 
 * PostgreSQL database
 * Java/Springboot service layer
 * JPA/Hibernate ORM
 * React front-end components
+* Stripe API
 
 ### [Mock Airbnb Listing Page](https://github.com/Smelser-Squad/FindMyParadise) "Find My Paradise"
 #### April 2021
