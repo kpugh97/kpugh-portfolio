@@ -17,6 +17,7 @@
 * JavaScript
 * TypeScript 
 * SQL
+* C#
 
 ## Frameworks
 * Angular
