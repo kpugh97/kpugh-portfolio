@@ -10,7 +10,9 @@
 * Computer Science Major
 
 ## Summary
-* Intermediate Full Stack Engineer. Currently working as a Full Stack Developer with Talent Path.
+* Currently working as an Embedded Software Engineer with Northrop Grumman
+* Full Stack Engineer. Coding Hobbiest. Beginner 3D Modeling Skills
+
 
 ## Languages
 * Java
