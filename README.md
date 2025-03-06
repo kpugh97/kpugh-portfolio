@@ -13,11 +13,11 @@
 * Intermediate Full Stack Engineer. Currently working as a Full Stack Developer with Talent Path.
 
 ## Languages
-* Java 
-* JavaScript
+* Java           * SQL
+* JavaScript     * C#
 * TypeScript 
-* SQL
-* C#
+
+
 
 ## Frameworks
 * Angular
